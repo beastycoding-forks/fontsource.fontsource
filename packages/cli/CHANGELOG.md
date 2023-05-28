@@ -1,5 +1,11 @@
 # @fontsource-utils/cli
 
+## 0.3.8
+
+### Patch Changes
+
+- [#733](https://github.com/fontsource/fontsource/pull/733) [`0f162c9e18`](https://github.com/fontsource/fontsource/commit/0f162c9e1893729352fb8467e2515e7bd65baa0e) Thanks [@Sh4rK](https://github.com/Sh4rK)! - Remove duplicated WOFF file downloads of different content for Google Font packages.
+
 ## 0.3.7
 
 ### Patch Changes
